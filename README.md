@@ -18,18 +18,21 @@ tested in a real browser on every push, and deployed with Cloudflare Pages.
 ![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-0f172a?style=for-the-badge&logo=vite)
 ![NestJS](https://img.shields.io/badge/NestJS-0f172a?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
 
 ## Experience
 
-**Nordic AI & Companion AI** · March 2026 to August 2026
-Frontend work in React, TypeScript and Vite, and backend work in NestJS,
-on [nordicai.net](https://www.nordicai.net/) and [com2.ai](https://com2.ai/).
+**Companion AI & Nordic AI** · March 2026 to August 2026
+Tester and IT employee, mostly on [com2.ai](https://com2.ai/), which is built
+with React, TypeScript and Vite on the front and NestJS on Node.js behind it.
+That is the stack I worked in every day. Some of the time went to
+[nordicai.net](https://www.nordicai.net/).
 
 ## Projects
 
 | Project | What it is |
 | --- | --- |
-| [victorguminski.com](https://github.com/victorguminski18/victorguminski18.github.io) | My portfolio. Vanilla HTML, CSS and JS with light and dark mode, animations, security headers and 31 browser tests in CI. |
+| [victorguminski.com](https://github.com/victorguminski18/victorguminski18.github.io) | My portfolio. Vanilla HTML, CSS and JS with light and dark mode, animations, security headers and 33 browser tests in CI. |
 | [html-css-course](https://github.com/victorguminski18/html-css-course) | HTML and CSS practice projects and exercises from a frontend development course, including a clone of the YouTube start page. |
 | [javascript-course](https://github.com/victorguminski18/javascript-course) | My journey learning JavaScript: variables, booleans, functions, a cart quantity exercise and rock paper scissors. |
 
