@@ -22,7 +22,7 @@ tested in a real browser on every push, and deployed with Cloudflare Pages.
 
 ## Experience
 
-**Companion AI & Nordic AI** · March 2026 to August 2026
+**Companion AI & Nordic AI** · March 2026 to August 2026<br>
 Tester and IT employee, mostly on [com2.ai](https://com2.ai/), which is built
 with React, TypeScript and Vite on the front and NestJS on Node.js behind it.
 That is the stack I worked in every day. Some of the time went to
@@ -32,7 +32,7 @@ That is the stack I worked in every day. Some of the time went to
 
 | Project | What it is |
 | --- | --- |
-| [victorguminski.com](https://github.com/victorguminski18/victorguminski18.github.io) | My portfolio. Vanilla HTML, CSS and JS with light and dark mode, animations, security headers and 33 browser tests in CI. |
+| [victorguminski.com](https://github.com/victorguminski18/victorguminski18.github.io) | My portfolio. Vanilla HTML, CSS and JS with light and dark mode, animations, security headers and 42 browser tests in CI. |
 | [html-css-course](https://github.com/victorguminski18/html-css-course) | HTML and CSS practice projects and exercises from a frontend development course, including a clone of the YouTube start page. |
 | [javascript-course](https://github.com/victorguminski18/javascript-course) | My journey learning JavaScript: variables, booleans, functions, a cart quantity exercise and rock paper scissors. |
 
