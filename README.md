@@ -18,7 +18,6 @@ tested in a real browser on every push, and deployed with Cloudflare Pages.
 ![NestJS](https://img.shields.io/badge/NestJS-0f172a?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-0f172a?style=for-the-badge&logo=amazondynamodb&logoColor=4053D6)
 ![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=codecrafters&logoColor=38bdf8)
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-0f172a?style=for-the-badge&logo=cloudflarepages&logoColor=F38020)
