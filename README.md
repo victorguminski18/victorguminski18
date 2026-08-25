@@ -14,6 +14,16 @@ tested in a real browser on every push, and deployed with Cloudflare Pages.
 ![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=codecrafters&logoColor=38bdf8)
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-0f172a?style=for-the-badge&logo=cloudflarepages&logoColor=F38020)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-0f172a?style=for-the-badge&logo=vite)
+![NestJS](https://img.shields.io/badge/NestJS-0f172a?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+
+## Experience
+
+**Nordic AI & Companion AI** · March 2026 to August 2026
+Frontend work in React, TypeScript and Vite, and backend work in NestJS,
+on [nordicai.net](https://www.nordicai.net/) and [com2.ai](https://com2.ai/).
 
 ## Projects
 
