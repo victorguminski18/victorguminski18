@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Victor. I build websites from scratch. HTML, CSS and JavaScript." width="100%">
+<img src="banner.svg" alt="Victor Guminski. I build websites from scratch. HTML, CSS and JavaScript." width="100%">
 
 Vg1 IM student. I build websites from scratch using vanilla HTML, CSS and JavaScript.
 The goal is to become a developer and build real projects.
