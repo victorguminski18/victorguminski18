@@ -1,10 +1,12 @@
 <img src="banner.svg" alt="Victor Guminski. I build websites from scratch. HTML, CSS and JavaScript." width="100%">
 
-Vg1 IM student. I build websites from scratch using vanilla HTML, CSS and JavaScript.
-The goal is to become a developer and build real projects.
+Vg1 IM student. I started building Roblox games with friends when I was 14, and in
+2025 moved over to HTML, CSS, JavaScript, TypeScript and React so that what I build
+runs on the open web. The goal is to become a full stack developer.
 
 **Right now:** my portfolio at [victorguminski.com](https://victorguminski.com), written by hand,
-tested in a real browser on every push, and deployed with Cloudflare Pages.
+tested in a real browser on every push, and deployed with Cloudflare Pages. Alongside it I am
+building Onyx Media Center, a desktop app for Windows and Linux with an Android version.
 
 ## What I work with
 
@@ -26,14 +28,15 @@ tested in a real browser on every push, and deployed with Cloudflare Pages.
 
 **Companion AI & Nordic AI** · March 2026 to August 2026<br>
 Tester and IT employee, mostly on [com2.ai](https://com2.ai/), which is built
-with React, TypeScript and Vite on the front and NestJS on Node.js behind it.
-That is the stack I worked in every day. Some of the time went to
+with React, TypeScript and Vite on the front and NestJS on Node.js behind it. I
+tested the frontend app and its features, read through both the frontend and
+backend code, and fixed the bugs I found. Some of the time went to
 [nordicai.net](https://www.nordicai.net/).
 
 ## Projects
 
 | Project | What it is |
 | --- | --- |
-| [victorguminski.com](https://github.com/victorguminski18/victorguminski18.github.io) | My portfolio. Vanilla HTML, CSS and JS with light and dark mode, animations, security headers and 42 browser tests in CI. |
+| [victorguminski.com](https://github.com/victorguminski18/victorguminski18.github.io) | My portfolio. Vanilla HTML, CSS and JS with light and dark mode, animations, security headers and browser tests on every push. |
 | [html-css-course](https://github.com/victorguminski18/html-css-course) | HTML and CSS practice projects and exercises from a frontend development course, including a clone of the YouTube start page. |
 | [javascript-course](https://github.com/victorguminski18/javascript-course) | My journey learning JavaScript: variables, booleans, functions, a cart quantity exercise and rock paper scissors. |
