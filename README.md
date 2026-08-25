@@ -1,16 +1,39 @@
-## Hi there 👋
+<img src="banner.png" alt="Victor. I build websites from scratch. HTML, CSS and JavaScript." width="100%">
 
-<!--
-**victorguminski18/victorguminski18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vg1 IM student. I build websites from scratch using vanilla HTML, CSS and JavaScript.
+The goal is to become a developer and build real projects.
 
-Here are some ideas to get you started:
+**Right now:** my portfolio at [victorguminski.com](https://victorguminski.com), written by hand,
+tested in a real browser on every push, and deployed with Cloudflare Pages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-0f172a?style=for-the-badge&logo=css&logoColor=38bdf8)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript)
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=codecrafters&logoColor=38bdf8)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-0f172a?style=for-the-badge&logo=cloudflarepages&logoColor=F38020)
+
+## Projects
+
+| Project | What it is |
+| --- | --- |
+| [victorguminski.com](https://github.com/victorguminski18/victorguminski18.github.io) | My portfolio. Vanilla HTML, CSS and JS with light and dark mode, animations, security headers and 31 browser tests in CI. |
+| [html-css-course](https://github.com/victorguminski18/html-css-course) | HTML and CSS practice projects and exercises from a frontend development course, including a clone of the YouTube start page. |
+| [javascript-course](https://github.com/victorguminski18/javascript-course) | My journey learning JavaScript: variables, booleans, functions, a cart quantity exercise and rock paper scissors. |
+
+## Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=victorguminski18&show_icons=true&theme=transparent&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8&hide_border=true">
+  <img alt="My GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=victorguminski18&show_icons=true&theme=transparent&title_color=0369a1&icon_color=4f46e5&text_color=475569&hide_border=true">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=victorguminski18&layout=donut&theme=transparent&title_color=38bdf8&text_color=94a3b8&hide_border=true">
+  <img alt="Languages I use most"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorguminski18&layout=donut&theme=transparent&title_color=0369a1&text_color=475569&hide_border=true">
+</picture>
