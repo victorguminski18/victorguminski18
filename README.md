@@ -14,7 +14,7 @@ building Onyx Media Center, a desktop app for Windows and Linux with an Android 
 ![CSS3](https://img.shields.io/badge/CSS-0f172a?style=for-the-badge&logo=css&logoColor=38bdf8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript)
-![Lua](https://img.shields.io/badge/Lua-0f172a?style=for-the-badge&logo=lua&logoColor=2C2D72)
+![Lua](https://img.shields.io/badge/Lua-0f172a?style=for-the-badge&logo=lua)
 ![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-0f172a?style=for-the-badge&logo=vite)
 ![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
