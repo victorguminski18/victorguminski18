@@ -1,6 +1,6 @@
 <img src="banner.svg" alt="Victor Guminski. I build websites from scratch. HTML, CSS and JavaScript." width="100%">
 
-Vg1 IM student. I started building Roblox games with friends when I was 14, and in
+Vg1 IM student. I started building Roblox games in Lua with friends when I was 14, and in
 2025 moved over to HTML, CSS, JavaScript, TypeScript and React so that what I build
 runs on the open web. The goal is to become a full stack developer.
 
@@ -14,6 +14,7 @@ building Onyx Media Center, a desktop app for Windows and Linux with an Android 
 ![CSS3](https://img.shields.io/badge/CSS-0f172a?style=for-the-badge&logo=css&logoColor=38bdf8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript)
+![Lua](https://img.shields.io/badge/Lua-0f172a?style=for-the-badge&logo=lua&logoColor=2C2D72)
 ![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-0f172a?style=for-the-badge&logo=vite)
 ![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
