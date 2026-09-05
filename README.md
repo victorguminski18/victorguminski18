@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Victor Guminski. I build websites from scratch. HTML, CSS and JavaScript." width="100%">
+<img src="banner.svg" alt="Victor Guminski. I build websites and apps. HTML, CSS, JavaScript and TypeScript." width="100%">
 
 Vg1 IM student. I started building Roblox games with friends when I was 14, and in
 2025 moved over to HTML, CSS, JavaScript, TypeScript and React so that what I build
