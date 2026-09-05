@@ -1,11 +1,11 @@
 <img src="banner.svg" alt="Victor Guminski. I build websites and apps. HTML, CSS, JavaScript and TypeScript." width="100%">
 
-Vg1 IM student. I started building Roblox games with friends when I was 14, and in
+Vg1 IM student. I started building Roblox games in Lua with friends when I was 14, and in
 2025 moved over to HTML, CSS, JavaScript, TypeScript and React so that what I build
 runs on the open web. The goal is to become a full stack developer.
 
-**Right now:** my portfolio at [victorguminski.com](https://victorguminski.com), written by hand,
-tested in a real browser before every change, and deployed with Cloudflare Pages. Alongside it I am
+**Right now:** my site at [victorguminski.com](https://victorguminski.com), tested in a
+real browser before every change and deployed with Cloudflare Pages. Alongside it I am
 building Onyx Media Center, a desktop app for Windows and Linux with an Android version.
 
 ## What I work with
@@ -14,6 +14,11 @@ building Onyx Media Center, a desktop app for Windows and Linux with an Android 
 ![CSS3](https://img.shields.io/badge/CSS-0f172a?style=for-the-badge&logo=css&logoColor=38bdf8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript)
+![Lua](https://img.shields.io/badge/Lua-0f172a?style=for-the-badge&logo=lua)
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C%2B%2B-0f172a?style=for-the-badge&logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-0f172a?style=for-the-badge&logo=csharp&logoColor=239120)
 ![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-0f172a?style=for-the-badge&logo=vite)
 ![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
@@ -37,6 +42,6 @@ backend code, and fixed the bugs I found. Some of the time went to
 
 | Project | What it is |
 | --- | --- |
-| [victorguminski.com](https://github.com/victorguminski18/victorguminski18.github.io) | My portfolio. Vanilla HTML, CSS and JS with light and dark mode, animations, security headers and browser tests before every change. |
+| [victorguminski.com](https://github.com/victorguminski18/victorguminski18.github.io) | Vanilla HTML, CSS and JS, with light and dark mode, animations, security headers and browser tests before every change. |
 | [html-css-course](https://github.com/victorguminski18/html-css-course) | HTML and CSS practice projects and exercises from a frontend development course, including a clone of the YouTube start page. |
 | [javascript-course](https://github.com/victorguminski18/javascript-course) | My journey learning JavaScript: variables, booleans, functions, a cart quantity exercise and rock paper scissors. |
