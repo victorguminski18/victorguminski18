@@ -5,7 +5,7 @@ Vg1 IM student. I started building Roblox games with friends when I was 14, and 
 runs on the open web. The goal is to become a full stack developer.
 
 **Right now:** my portfolio at [victorguminski.com](https://victorguminski.com), written by hand,
-tested in a real browser on every push, and deployed with Cloudflare Pages. Alongside it I am
+tested in a real browser before every change, and deployed with Cloudflare Pages. Alongside it I am
 building Onyx Media Center, a desktop app for Windows and Linux with an Android version.
 
 ## What I work with
@@ -37,6 +37,6 @@ backend code, and fixed the bugs I found. Some of the time went to
 
 | Project | What it is |
 | --- | --- |
-| [victorguminski.com](https://github.com/victorguminski18/victorguminski18.github.io) | My portfolio. Vanilla HTML, CSS and JS with light and dark mode, animations, security headers and browser tests on every push. |
+| [victorguminski.com](https://github.com/victorguminski18/victorguminski18.github.io) | My portfolio. Vanilla HTML, CSS and JS with light and dark mode, animations, security headers and browser tests before every change. |
 | [html-css-course](https://github.com/victorguminski18/html-css-course) | HTML and CSS practice projects and exercises from a frontend development course, including a clone of the YouTube start page. |
 | [javascript-course](https://github.com/victorguminski18/javascript-course) | My journey learning JavaScript: variables, booleans, functions, a cart quantity exercise and rock paper scissors. |

@@ -37,8 +37,27 @@
     @keyframes driftB  { from { transform: translate(70px, 20px); }  to { transform: translate(-80px, -30px); } }
     @keyframes breathe { 0%, 100% { transform: scaleX(1); } 50% { transform: scaleX(1.8); } }
 
+    /* The status line under the tagline cycles through three phrases, the
+       same three the site itself rotates. Each fades up, holds, and fades
+       away on a shared nine-second clock, three seconds apart. */
+    .status { font: 500 21px "Space Grotesk", system-ui, sans-serif; fill: #64748b; letter-spacing: 1px; opacity: 0; animation: cycle 9s ease-in-out infinite; }
+    .s2 { animation-delay: 3s; }
+    .s3 { animation-delay: 6s; }
+    .dot { animation: pulse 3s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+
+    @keyframes cycle {
+      0%, 3%   { opacity: 0; transform: translateY(8px); }
+      9%, 27%  { opacity: 1; transform: translateY(0); }
+      33%, 100% { opacity: 0; transform: translateY(-8px); }
+    }
+    @keyframes pulse {
+      0%, 100% { transform: scale(1);   opacity: 1; }
+      50%      { transform: scale(1.6); opacity: 0.35; }
+    }
+
     @media (prefers-reduced-motion: reduce) {
-      .ink, .orbA, .orbB, .rule { animation: none; }
+      .ink, .orbA, .orbB, .rule, .status, .dot { animation: none; }
+      .s1 { opacity: 1; }
     }
   </style>
 
@@ -54,4 +73,10 @@
 
   <rect class="rule" x="602" y="244" width="76" height="5" rx="2.5" fill="#38bdf8"/>
   <text x="640" y="300" text-anchor="middle" class="sub">I build websites and apps. HTML, CSS, JavaScript and TypeScript.</text>
+
+  <!-- The status line: a pulsing dot and one of three phrases at a time -->
+  <circle class="dot" cx="520" cy="349" r="5" fill="#38bdf8"/>
+  <text x="538" y="356" class="status s1">Vg1 IM student</text>
+  <text x="538" y="356" class="status s2">Building Onyx Media Center</text>
+  <text x="538" y="356" class="status s3">Learning JavaScript</text>
 </svg>
