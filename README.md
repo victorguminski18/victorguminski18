@@ -2,7 +2,7 @@
 
 Vg1 IM student. I started building Roblox games in Lua with friends when I was 14, and in
 2025 moved over to HTML, CSS, JavaScript, TypeScript and React so that what I build
-runs on the open web. The goal is to become a full stack developer.
+runs on the open web, and to React Native so it runs on a phone too. The goal is to become a full stack developer.
 
 **Right now:** my site at [victorguminski.com](https://victorguminski.com), tested in a
 real browser before every change and deployed with Cloudflare Pages. Alongside it I am
@@ -19,7 +19,13 @@ building Onyx Media Center, a desktop app for Windows and Linux with an Android 
 ![C](https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/C%2B%2B-0f172a?style=for-the-badge&logo=cplusplus)
 ![C#](https://img.shields.io/badge/C%23-0f172a?style=for-the-badge&logo=csharp&logoColor=239120)
+![Kotlin](https://img.shields.io/badge/Kotlin-0f172a?style=for-the-badge&logo=kotlin)
+![Swift](https://img.shields.io/badge/Swift-0f172a?style=for-the-badge&logo=swift)
+![Objective-C](https://img.shields.io/badge/Objective--C-0f172a?style=for-the-badge)
+![Ruby](https://img.shields.io/badge/Ruby-0f172a?style=for-the-badge&logo=ruby)
 ![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-0f172a?style=for-the-badge&logo=react)
+![Astro](https://img.shields.io/badge/Astro-0f172a?style=for-the-badge&logo=astro)
 ![Vite](https://img.shields.io/badge/Vite-0f172a?style=for-the-badge&logo=vite)
 ![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
 ![NestJS](https://img.shields.io/badge/NestJS-0f172a?style=for-the-badge&logo=nestjs&logoColor=E0234E)
