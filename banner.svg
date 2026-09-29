@@ -1,36 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="Victor Guminski. I build websites and apps. HTML, CSS, JavaScript and TypeScript. Vg1 IM student, Bergen, Norway. Goal: Full-stack dev.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="Victor Guminski. I build websites and apps. Vg1 IM student, Bergen, Norway. Goal: Full-stack dev.">
   <title>Victor Guminski — banner</title>
-  <defs>
-    <radialGradient id="limeGlow" gradientUnits="userSpaceOnUse" cx="120" cy="0" r="560">
-      <stop offset="0" stop-color="#C6FF00" stop-opacity="0.08"/>
-      <stop offset="1" stop-color="#C6FF00" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
 
   <style>
     .sans { font-family: Inter, system-ui, -apple-system, "Segoe UI", sans-serif; }
     .mono { font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
-    .name { font-size: 72px; font-weight: 800; letter-spacing: -1.5px; fill: #FFFFFF; }
+    .name { font-size: 78px; font-weight: 800; letter-spacing: -2px; fill: #FFFFFF; }
     .sub { font-size: 18px; font-weight: 400; fill: #A0A0A0; }
     .status { font-size: 14px; fill: #C6FF00; }
     .top { font-size: 10px; fill: #A0A0A0; }
     .foot { font-size: 11px; fill: #888888; }
-    .dot { animation: blink 2s ease-in-out infinite; }
-    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.2; } }
+    .cursor { animation: blink 1s step-end infinite; }
+    .dot { animation: pulseDot 2s ease-in-out infinite; }
+    .line { transform-box: fill-box; transform-origin: center; animation: drawLine 1.2s ease-out 0.3s both; }
+    .rise { animation: fadeIn 0.8s ease-out both; }
+    .d1 { animation-delay: 0.1s; }
+    .d2 { animation-delay: 0.5s; }
+    .d3 { animation-delay: 0.9s; }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    @keyframes pulseDot { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+    @keyframes drawLine { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
     @media (prefers-reduced-motion: reduce) {
-      .dot { animation: none; }
+      .cursor, .dot, .line, .rise { animation: none; }
     }
   </style>
 
   <rect width="1200" height="400" fill="#000000"/>
-  <rect width="1200" height="400" fill="url(#limeGlow)"/>
 
-  <text x="1180" y="28" text-anchor="end" class="mono top">victorguminski.com • No tracking</text>
+  <text x="1180" y="28" text-anchor="end" class="mono top">victorguminski.com — 100% true info • No tracking</text>
 
-  <text x="600" y="172" text-anchor="middle" class="sans name">Victor Guminski</text>
-  <rect x="530" y="196" width="140" height="4" rx="2" fill="#C6FF00"/>
-  <text x="600" y="248" text-anchor="middle" class="sans sub">I build websites and apps. HTML, CSS, JavaScript and TypeScript.</text>
-  <text x="600" y="292" text-anchor="middle" class="mono status"><tspan class="dot">●</tspan> Vg1 IM student • Bergen, Norway • Goal: Full-stack dev</text>
+  <text x="600" y="170" text-anchor="middle" class="sans name rise d1">Victor Guminski</text>
+  <rect class="line" x="525" y="194" width="150" height="4" rx="2" fill="#C6FF00"/>
+  <text x="600" y="248" text-anchor="middle" class="sans sub rise d2">I build websites and apps<tspan class="cursor">_</tspan></text>
+  <text x="600" y="292" text-anchor="middle" class="mono status rise d3"><tspan class="dot">●</tspan> Vg1 IM student • Bergen, Norway • Goal: Full-stack dev</text>
 
   <text x="20" y="376" class="mono foot">Available for projects — github.com/victorguminski18</text>
 </svg>

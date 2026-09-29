@@ -10,21 +10,6 @@ I started building Roblox games in Lua with friends when I was 14, and in
 2025 moved over to HTML, CSS, JavaScript, TypeScript and React so that what I build
 runs on the open web, and to React Native so it runs on a phone too. The goal is to become a full stack developer.
 
-## What's new on the site
-
-Rebuilt from scratch: pure black #000000 background, white text, lime #C6FF00
-accent. No tracking • Nothing stored or sent anywhere.
-
-- **Live battery** ⚡ + "This device, right now" — detects YOUR device, shows a charging bolt when plugged in.
-- **Local time** — detects your device location and ticks every second.
-- **IP address** — hidden on purpose. `xxx.xxx.xxx.xxx` is a placeholder, decoration only.
-- **Cookie Preferences banner, 100% transparent:**
-  - *Strictly Necessary (always on):* `__cf_bm`, `cf_clearance`, `_cfuvid`, `__cflb`, `cf_ob_info` / `cf_use_ob`, `__cfwaitingroom` — Cloudflare Bot Management, Rate Limiting, Load Balancer.
-  - *Functional (your choice):* `vg-theme` — remembers dark/light mode, stored in localStorage + cookie (`SameSite=Lax`; `Secure`; expires in 1 year).
-  - No Google Analytics, no Facebook Pixel, no ads.
-
-NOTE: THESE LIVE NUMBERS ARE JUST FOR DECORATION. NOTHING IS STORED OR SENT ANYWHERE.
-
 ## What I work with
 
 ![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5)
