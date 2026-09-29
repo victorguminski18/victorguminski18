@@ -13,7 +13,7 @@ runs on the open web, and to React Native so it runs on a phone too. The goal is
 ## What's new on the site
 
 Rebuilt from scratch: pure black #000000 background, white text, lime #C6FF00
-accent. 100% true info • No tracking • Nothing stored or sent anywhere.
+accent. No tracking • Nothing stored or sent anywhere.
 
 - **Live battery** ⚡ + "This device, right now" — detects YOUR device, shows a charging bolt when plugged in.
 - **Local time** — detects your device location and ticks every second.
@@ -77,4 +77,4 @@ backend code, and fixed the bugs I found. Some of the time went to
 - LinkedIn: https://www.linkedin.com/in/victor-guminski-518a39368/
 - Instagram: https://www.instagram.com/victor_guminski18
 
-© 2026 Victor Guminski — Vg1 IM, Krokeide VGS, Bergen — 100% true info only
+© 2026 Victor Guminski — Vg1 IM, Krokeide VGS, Bergen

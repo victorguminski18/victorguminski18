@@ -25,7 +25,7 @@
   <rect width="1200" height="400" fill="#000000"/>
   <rect width="1200" height="400" fill="url(#limeGlow)"/>
 
-  <text x="1180" y="28" text-anchor="end" class="mono top">victorguminski.com — 100% true info • No tracking</text>
+  <text x="1180" y="28" text-anchor="end" class="mono top">victorguminski.com • No tracking</text>
 
   <text x="600" y="172" text-anchor="middle" class="sans name">Victor Guminski</text>
   <rect x="530" y="196" width="140" height="4" rx="2" fill="#C6FF00"/>
