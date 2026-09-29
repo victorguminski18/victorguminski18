@@ -1,12 +1,29 @@
-<img src="banner.svg" alt="Victor Guminski. I build websites and apps. HTML, CSS, JavaScript and TypeScript." width="100%">
+<img src="banner.svg" alt="Victor Guminski. I build websites and apps. HTML, CSS, JavaScript and TypeScript. Vg1 IM student, Bergen, Norway. Goal: Full-stack dev." width="100%">
 
-Vg1 IM student. I started building Roblox games in Lua with friends when I was 14, and in
+**Vg1 IM student • Bergen, Norway • Goal: Full-stack dev**
+
+**Live now:** [victorguminski.com](https://victorguminski.com) — tested in a
+real browser before every change, deployed with Cloudflare Pages, new VG
+favicon (lime #C6FF00 on black, 16:1 contrast).
+
+I started building Roblox games in Lua with friends when I was 14, and in
 2025 moved over to HTML, CSS, JavaScript, TypeScript and React so that what I build
 runs on the open web, and to React Native so it runs on a phone too. The goal is to become a full stack developer.
 
-**Right now:** my site at [victorguminski.com](https://victorguminski.com), tested in a
-real browser before every change and deployed with Cloudflare Pages. Alongside it I am
-building Onyx Media Center, a desktop app for Windows and Linux with an Android version.
+## What's new on the site
+
+Rebuilt from scratch: pure black #000000 background, white text, lime #C6FF00
+accent. 100% true info • No tracking • Nothing stored or sent anywhere.
+
+- **Live battery** ⚡ + "This device, right now" — detects YOUR device, shows a charging bolt when plugged in.
+- **Local time** — detects your device location and ticks every second.
+- **IP address** — hidden on purpose. `xxx.xxx.xxx.xxx` is a placeholder, decoration only.
+- **Cookie Preferences banner, 100% transparent:**
+  - *Strictly Necessary (always on):* `__cf_bm`, `cf_clearance`, `_cfuvid`, `__cflb`, `cf_ob_info` / `cf_use_ob`, `__cfwaitingroom` — Cloudflare Bot Management, Rate Limiting, Load Balancer.
+  - *Functional (your choice):* `vg-theme` — remembers dark/light mode, stored in localStorage + cookie (`SameSite=Lax`; `Secure`; expires in 1 year).
+  - No Google Analytics, no Facebook Pixel, no ads.
+
+NOTE: THESE LIVE NUMBERS ARE JUST FOR DECORATION. NOTHING IS STORED OR SENT ANYWHERE.
 
 ## What I work with
 
@@ -48,6 +65,16 @@ backend code, and fixed the bugs I found. Some of the time went to
 
 | Project | What it is |
 | --- | --- |
-| [victorguminski.com](https://github.com/victorguminski18/victorguminski18.github.io) | Vanilla HTML, CSS and JS, with light and dark mode, animations, security headers and browser tests before every change. |
+| [victorguminski.com](https://github.com/victorguminski18/victorguminski18.github.io) | Vanilla HTML, CSS and JS with light/dark `vg-theme`, animations, security headers and browser tests before every change. |
+| **Kvelv** (in progress) | Web app — my big project, currently building. |
+| **Onyx Media Center** (in progress) | Desktop app for Windows and Linux with an Android version, currently building. |
 | [html-css-course](https://github.com/victorguminski18/html-css-course) | HTML and CSS practice projects and exercises from a frontend development course, including a clone of the YouTube start page. |
 | [javascript-course](https://github.com/victorguminski18/javascript-course) | My journey learning JavaScript: variables, booleans, functions, a cart quantity exercise and rock paper scissors. |
+
+## Contact
+
+- GitHub: https://github.com/victorguminski18
+- LinkedIn: https://www.linkedin.com/in/victor-guminski-518a39368/
+- Instagram: https://www.instagram.com/victor_guminski18
+
+© 2026 Victor Guminski — Vg1 IM, Krokeide VGS, Bergen — 100% true info only
