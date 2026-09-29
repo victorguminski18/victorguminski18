@@ -66,8 +66,6 @@ backend code, and fixed the bugs I found. Some of the time went to
 | Project | What it is |
 | --- | --- |
 | [victorguminski.com](https://github.com/victorguminski18/victorguminski18.github.io) | Vanilla HTML, CSS and JS with light/dark `vg-theme`, animations, security headers and browser tests before every change. |
-| **Kvelv** (in progress) | Web app — my big project, currently building. |
-| **Onyx Media Center** (in progress) | Desktop app for Windows and Linux with an Android version, currently building. |
 | [html-css-course](https://github.com/victorguminski18/html-css-course) | HTML and CSS practice projects and exercises from a frontend development course, including a clone of the YouTube start page. |
 | [javascript-course](https://github.com/victorguminski18/javascript-course) | My journey learning JavaScript: variables, booleans, functions, a cart quantity exercise and rock paper scissors. |
 
