@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="VG monogram">
+  <rect width="512" height="512" rx="128" fill="#000000"/>
+  <path d="M72 150 H140 L197 308 L254 150 H322 L229 378 H165 Z" fill="#FFFFFF"/>
+  <path d="M404 195 A84 84 0 1 0 404 333" fill="none" stroke="#C6FF00" stroke-width="50"/>
+  <path d="M356 264 H440 V333" fill="none" stroke="#C6FF00" stroke-width="50"/>
+  <path d="M292 138 L287 152" stroke="#C6FF00" stroke-width="9"/>
+  <circle cx="298" cy="122" r="19" fill="#C6FF00"/>
+</svg>

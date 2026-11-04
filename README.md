@@ -1,58 +1,37 @@
-<img src="banner.svg" alt="Victor Guminski. I build websites and apps. HTML, CSS, JavaScript and TypeScript. Vg1 IM student, Bergen, Norway. Goal: Full-stack dev." width="100%">
+<img src="banner-animated.svg" alt="Victor Guminski — Polish/Norwegian developer based in Bergen, Norway — Vg1 IM — HTML CSS JS TS React Vite NestJS Node.js — Goal Full-stack dev" width="100%">
 
-**Vg1 IM student • Bergen, Norway • Goal: Full-stack dev**
+**Polish/Norwegian developer based in Bergen, Norway — Vg1 IM — Goal: Full-stack dev**
 
-**Live now:** [victorguminski.com](https://victorguminski.com) — tested in a
-real browser before every change, deployed with Cloudflare Pages, new VG
-favicon (lime #C6FF00 on black, 16:1 contrast).
+**Live now:** [victorguminski.com](https://victorguminski.com) — tested in real browser before every change, deployed with Cloudflare Pages, new exact VG favicon V white G lime node dot on black 16:1 AAA.
 
-I started building Roblox games in Lua with friends when I was 14, and in
-2025 moved over to HTML, CSS, JavaScript, TypeScript and React so that what I build
-runs on the open web, and to React Native so it runs on a phone too. The goal is to become a full stack developer.
+Bio: I started building Roblox games with friends when I was 14, and in 2025 moved over to HTML, CSS, JavaScript, TypeScript and React so that what I build runs on the open web. The goal is to become a full-stack developer.
 
-## What I work with
+## What I work with — ONLY:
 
-![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-0f172a?style=for-the-badge&logo=css&logoColor=38bdf8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript)
-![Lua](https://img.shields.io/badge/Lua-0f172a?style=for-the-badge&logo=lua)
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB)
-![C](https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C%2B%2B-0f172a?style=for-the-badge&logo=cplusplus)
-![C#](https://img.shields.io/badge/C%23-0f172a?style=for-the-badge&logo=csharp&logoColor=239120)
-![Kotlin](https://img.shields.io/badge/Kotlin-0f172a?style=for-the-badge&logo=kotlin)
-![Swift](https://img.shields.io/badge/Swift-0f172a?style=for-the-badge&logo=swift)
-![Objective-C](https://img.shields.io/badge/Objective--C-0f172a?style=for-the-badge)
-![Ruby](https://img.shields.io/badge/Ruby-0f172a?style=for-the-badge&logo=ruby)
-![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-0f172a?style=for-the-badge&logo=react)
-![Astro](https://img.shields.io/badge/Astro-0f172a?style=for-the-badge&logo=astro)
-![Vite](https://img.shields.io/badge/Vite-0f172a?style=for-the-badge&logo=vite)
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![NestJS](https://img.shields.io/badge/NestJS-0f172a?style=for-the-badge&logo=nestjs&logoColor=E0234E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=codecrafters&logoColor=38bdf8)
-![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-0f172a?style=for-the-badge&logo=cloudflarepages&logoColor=F38020)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=C6FF00)
+![CSS3](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=C6FF00)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=C6FF00)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=C6FF00)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=C6FF00)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=C6FF00)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=C6FF00)
+![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=C6FF00)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=C6FF00)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=C6FF00)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-000000?style=for-the-badge&logo=cloudflarepages&logoColor=C6FF00)
 
 ## Experience
 
-**Companion AI & Nordic AI** · March 2026 to August 2026<br>
-Tester and IT employee, mostly on [com2.ai](https://com2.ai/), which is built
-with React, TypeScript and Vite on the front and NestJS on Node.js behind it. I
-tested the frontend app and its features, read through both the frontend and
-backend code, and fixed the bugs I found. Some of the time went to
-[nordicai.net](https://www.nordicai.net/).
+Companion AI & Nordic AI · March 2026 to August 2026 — Tester and IT employee — tested frontend app and features, read frontend and backend code, fixed bugs. Part of time on nordicai.net and com2.ai.
 
 ## Projects
 
 | Project | What it is |
 | --- | --- |
-| [victorguminski.com](https://github.com/victorguminski18/victorguminski18.github.io) | Vanilla HTML, CSS and JS with light/dark `vg-theme`, animations, security headers and browser tests before every change. |
-| [html-css-course](https://github.com/victorguminski18/html-css-course) | HTML and CSS practice projects and exercises from a frontend development course, including a clone of the YouTube start page. |
-| [javascript-course](https://github.com/victorguminski18/javascript-course) | My journey learning JavaScript: variables, booleans, functions, a cart quantity exercise and rock paper scissors. |
+| victorguminski.com | Vanilla HTML CSS JS TS React with vg-theme, animations, security headers, browser tests. Style: Minimal, premium Linear.app-inspired, brutal polarized black lime — Scandinavian precision, Polish/Norwegian roots. |
+| Oryndra | Discord bot — NestJS / Node.js + Discord.js — WIP replaces Onyx + Kvelv |
+| html-css-course | HTML and CSS practice projects, YouTube start page clone |
+| javascript-course | Journey learning JS: variables, booleans, functions, cart quantity, rock paper scissors |
 
 ## Contact
 
@@ -60,4 +39,4 @@ backend code, and fixed the bugs I found. Some of the time went to
 - LinkedIn: https://www.linkedin.com/in/victor-guminski-518a39368/
 - Instagram: https://www.instagram.com/victor_guminski18
 
-© 2026 Victor Guminski — Vg1 IM, Krokeide VGS, Bergen
+© 2026 Victor Guminski — Polish/Norwegian developer based in Bergen, Norway — Vg1 IM
